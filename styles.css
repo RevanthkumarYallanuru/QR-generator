@@ -1,0 +1,44 @@
+body
+{
+    background: #2e2c2c;
+}
+.container
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 1px solid blue;
+    padding: 15px 30px;
+    background: #e2d3d3;
+    border-radius: 20px;
+    transform: translate(-50%,-50%);
+}
+.container p
+{
+    font: 10px;
+    font-weight: 600;
+}
+
+.container input
+{
+    border: 2px solid #303130;
+    border-radius: 5px;
+    height: 20px;
+    background: transparent;
+    color: black;
+    font-weight: 400;
+}
+.container button
+{
+    width: 100%;
+    border-radius: 10px;
+    height: 30px;
+    background: #7d0fe4e3;
+    font-size: large;
+    font-weight: 500;
+
+}
+.imgbox
+{
+    padding: 15px;
+}
